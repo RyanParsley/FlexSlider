@@ -2,3 +2,5 @@
 http://www.woothemes.com/flexslider/ - Copyright (c) 2014 WooThemes
 
 Added destroy method that may prove brittle upon update. Do not update without thorough testing of media query driven sliders!
+
+https://github.com/woothemes/FlexSlider/pull/716
